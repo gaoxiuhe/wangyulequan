@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gaoxiuhe.github.io/wangyulequan/sitemap.xml
